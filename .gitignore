@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# The PNGs generated don't need to be uploaded
+*.png
+
 # Distribution / packaging
 .Python
 build/
